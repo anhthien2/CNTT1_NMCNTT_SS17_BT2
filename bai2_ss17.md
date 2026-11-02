@@ -20,9 +20,9 @@ Khi dùng chung 1 Profile Chrome mặc định, tất cả dữ liệu được 
 
 | Thư mục | 3 Link mẫu phải có |
 | :--- | :--- |
-|  01_CarePulse_Clinic | 1. carepulse.ptit.edu.vn - Dashboard<br>2. carepulse/hosobenhan<br>3. gdbhyt.baohiemxahoi.gov.vn |
-|  02_Pharma_Portal | 1. Dược Thư Quốc Gia<br>2. Drug Interaction Checker<br>3. dav.gov.vn - Cục Dược |
-|  03_Medical_Tools | 1. Google Dịch<br>2. ICD-10 Tra mã bệnh<br>3. Mayo Clinic |
+| 📁 01_CarePulse_Clinic | 1. carepulse.ptit.edu.vn - Dashboard<br>2. carepulse/hosobenhan<br>3. gdbhyt.baohiemxahoi.gov.vn |
+| 📁 02_Pharma_Portal | 1. Dược Thư Quốc Gia<br>2. Drug Interaction Checker<br>3. dav.gov.vn - Cục Dược |
+| 📁 03_Medical_Tools | 1. Google Dịch<br>2. ICD-10 Tra mã bệnh<br>3. Mayo Clinic |
 
 
 **4. Mẹo Favicon-Only**
